@@ -1,0 +1,17 @@
+{
+  "name": "direct-execution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "direct-exec.js",
+  "bin": {
+    "direct-exec": "./direct-exec.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "read-file": "node direct-exec.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
+
